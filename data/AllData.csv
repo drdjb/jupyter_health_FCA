@@ -1,0 +1,11 @@
+Patient ID,Emergency,Minor Injury,Urgent Care,Code 1,Code 2,Code 3,Code 4,Code 5,Code 6,Infant,Child,Adult,Senior,Mon: am,Mon: pm,Tue: am,Tue: pm,Wed: am,Wed: pm,Thu: am,Thu: pm,Fri: am,Fri: pm,Sat: am,Sat: pm,Sun: am,Sun: pm
+Patient 1,X,0,0,0,0,0,0,X,0,0,0,0,X,0,0,0,0,0,0,0,0,0,X,0,0,0,
+Patient 2,X,0,0,X,X,0,0,0,0,0,0,0,X,0,X,X,X,0,0,X,0,0,X,X,0,0,
+Patient 3,X,0,0,0,0,0,X,0,0,0,0,0,X,0,0,0,0,0,0,X,0,X,0,0,0,X,
+Patient 4,0,X,0,0,0,0,X,0,0,0,X,0,0,0,0,0,X,0,X,0,0,0,0,0,0,0,
+Patient 5,0,X,0,0,0,0,0,0,0,0,X,0,0,0,X,0,0,0,X,0,0,0,0,0,0,0,
+Patient 6,0,X,0,0,0,X,0,0,0,0,0,0,X,0,0,0,0,0,0,0,X,0,0,X,0,X,
+Patient 7,0,X,0,0,0,0,0,X,0,0,0,0,X,0,0,X,0,0,0,X,X,0,0,0,0,X,
+Patient 8,0,0,X,0,0,0,0,0,X,X,0,0,0,0,X,,0,X,0,0,0,0,0,0,X,0,
+Patient 9,0,0,X,0,0,X,0,0,0,X,0,0,0,0,X,0,0,0,0,0,0,0,0,X,X,0,
+Patient 10,0,0,0,0,0,0,0,0,X,0,0,X,0,X,0,0,X,0,0,0,0,0,0,X,0,0,

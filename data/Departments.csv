@@ -1,0 +1,11 @@
+Patient ID,Emergency,Minor Injury,Urgent Care
+Patient 1,X,0,0
+Patient 2,X,0,0
+Patient 3,X,0,0
+Patient 4,0,X,0
+Patient 5,0,X,0
+Patient 6,0,X,0
+Patient 7,0,X,0
+Patient 8,0,0,X
+Patient 9,0,0,X
+Patient 10,0,0,0

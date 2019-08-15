@@ -1,0 +1,11 @@
+Patient ID,Infant,Child,Adult,Senior
+Patient 1,0,0,0,X
+Patient 2,0,0,0,X
+Patient 3,0,0,0,X
+Patient 4,0,X,0,0
+Patient 5,0,X,0,0
+Patient 6,0,0,0,X
+Patient 7,0,0,0,X
+Patient 8,X,0,0,0
+Patient 9,X,0,0,0
+Patient 10,0,0,X,0
